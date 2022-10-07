@@ -15,7 +15,7 @@ This project analyzes NYC Airbnb data to explore the differences in price and av
 Mahattan and Brooklyn are two areas that are the most popular among the five boroughs in NYC. Within these two areas, private room and entire room/apartment are the most popular room types. Mahattan has the greatest listing price among the five boroughs in all three room types.
 
 # The Most busiset Hosts
-In my analysis, I calculate the number of listing for each host in NYC.The majority of these most successful hosts have listed their rooms in Manhattan and Brooklyn as entire home/apartment.
+In my analysis, I calculate the number of listing for each host in NYC. The majority of these most successful hosts have listed their rooms in Manhattan and Brooklyn as entire home/apartment.
 
 # Conclusion
 *   Manhattan neighbourhood has the most listed Airbnb as compared to others.
